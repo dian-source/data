@@ -1,17 +1,36 @@
 ID;Name;Email;Password;Role;Kota;Location
-1;Palmerah;123@gmail.com;majubersama;admin;Jakarta Barat;Jl. Palmerah Barat IV, Palmerah, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta
-2;Kebun Jeruk;123@gmail.com;majubersama;admin;Jakarta Barat;Jl Nelanpoli RT.02 RW.10 Kelurahan Sukabumi Utara, Kecamatan Kebun Jeruk Kota Jakarta Barat 11540
-3;Vasaka Solterra;234@gmail.com;majubersama;admin;Jakarta Selatan;Jl. Condet Pejaten No.1 lantai P1-01, Pejaten Bar., Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12510
-4;Tegal Parang;234@gmail.com;majubersama;admin;Jakarta Selatan;Jl. Tegal Parang Utara No.37B, RT.7/RW.4, Mampang Prpt., Kec. Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12790
-5;Gongseng;234@gmail.com;majubersama;admin;Jakarta Timur;Jl. Gongseng Timur Raya, RT.5/RW.7, Cijantung, Kec. Ps. Rebo, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13770
-6;Gongseng 2;234@gmail.com;majubersama;admin;Jakarta Timur;Jalan Gongseng Raya No.03 RT 001 RW 10, Kel. Cijantung, Kec. Pasar Rebo, Jakarta Timur , DKI Jakarta 13770
-7;Pondok Kelapa;234@gmail.com;majubersama;admin;Jakarta Timur;Malaka Jaya, Durensawit, East Jakarta City, Jakarta
-8;Pondok Ungu;234@gmail.com;majubersama;admin;Bekasi;Jl. Raya Pd. Ungu Permai No.10, Bahagia, Kec. Babelan, Kabupaten Bekasi, Jawa Barat 17610
-9;Pancoran Mas;345@gmail.com;majubersama;admin;Depok;Jl. Raya Cagar Alam No.9, Pancoran MAS, Kec. Pancoran Mas, Kota Depok, Jawa Barat 16436
-10;Patung Gajah;345@gmail.com;majubersama;admin;Depok;Jl. Bulak Timur No. 9 RT004/RW009 (Patung Gajah, Cipayung, Kec. Cipayung, Kota Depok, Jawa Barat 16422
-11;Pitara;345@gmail.com;majubersama;admin;Depok;Jl. Pitara, Pancoran Mas, Kec. Pancoran Mas, Kota Depok, Jawa Barat
-12;Tanah Baru;345@gmail.com;majubersama;admin;Depok;Sebrang Indomart Cahaya Titis, Jl. Cahaya Titis Jl. R. Sanim No.Simpang, Tanah Baru, Kecamatan Beji, Kota Depok, Jawa Barat 16426
-13;Sukmajaya;345@gmail.com;majubersama;admin;Depok;Jl. Keadilan Raya No.12, RT.01/RW.14, Abadijaya, Kec. Sukmajaya, Kota Depok, Jawa Barat 16417
-14;Pondok Terong;345@gmail.com;majubersama;admin;Depok;Jl. Masjid Al Ittihad No.3B, RT.001 RW004, Bojong Pd. Terong, Kec. Cipayung, Kota Depok, Jawa Barat 16444
-15;Sesetan;456@gmail.com;majubersama;admin;Denpasar;Jl. Raya Sesetan No.232, Sesetan, Denpasar Selatan, Kota Denpasar, Bali 80223
-16;CS Digital;999@gmail.com;bigbossnih;superadmin;Bandung;-
+1;Palmerah;123@gmail.com;majubersama;admin;Jakarta Barat;-
+2;Anggrek;123@gmail.com;majubersama;admin;Jakarta Barat;-
+3;Nellanvoli;123@gmail.com;majubersama;admin;Jakarta Barat;-
+4;Cagar Alam;234@gmail.com;majubersama;admin;Depok;-
+5;Pitara;234@gmail.com;majubersama;admin;Depok;-
+6;Sanim Tanah Baru;234@gmail.com;majubersama;admin;Depok;-
+7;Patung Gajah;234@gmail.com;majubersama;admin;Depok;-
+8;Cagar Alam 2;234@gmail.com;majubersama;admin;Depok;-
+9;Pondok Terong;234@gmail.com;majubersama;admin;Depok;-
+10;Keadilan;234@gmail.com;majubersama;admin;Depok;-
+11;Greperi (Keradenan);234@gmail.com;majubersama;admin;Bogor;-
+12;CS Digital;999@gmail.com;bigbossnih;superadmin;Bandung;-
+13;Sesetan;345@gmail.com;majubersama;admin;Denpasar;-
+14;Komodo;345@gmail.com;majubersama;admin;Denpasar;-
+15;Rinjani;345@gmail.com;majubersama;admin;Denpasar;-
+16;Nonstop Laundry;345@gmail.com;majubersama;admin;Denpasar;-
+17;Malaka;456@gmail.com;majubersama;admin;Jakarta Timur;-
+18;Emam Pondok Kelapa;456@gmail.com;majubersama;admin;Jakarta Timur;-
+19;Bintara;456@gmail.com;majubersama;admin;Jakarta Timur;-
+20;Pondok Ungu;567@gmail.com;majubersama;admin;Bekasi;
+21;Gongseng;567@gmail.com;majubersama;admin;Jakarta Timur;
+22;Lavana;567@gmail.com;majubersama;admin;Bekasi;
+23;Pondok Kelapa;567@gmail.com;majubersama;admin;Jakarta Timur;
+24;Gongseng 2;567@gmail.com;majubersama;admin;Jakarta Timur;
+25;Vasaka;567@gmail.com;majubersama;admin;Jakarta Selatan;
+26;Tegal Parang;567@gmail.com;majubersama;admin;Jakarta Selatan;
+27;Asem Baris;567@gmail.com;majubersama;admin;Jakarta Selatan;
+28;Kuningan Barat;567@gmail.com;majubersama;admin;Jakarta Selatan;
+29;Kramat Sentiong;678@gmail.com;majubersama;admin;Jakarta Pusat;
+30;Sisingamaraja;789@gmail.com;majubersama;admin;Jogjakarta;
+31;Condong Catur;789@gmail.com;majubersama;admin;Jogjakarta;
+32;Laundry Klin;890@gmail.com;majubersama;admin;Jakarta Selatan;
+33;Everyday Laundry;901@gmail.com;majubersama;admin;Cikarang;
+34;Qiuqiu Laundry;019@gmail.com;majubersama;admin;Denpasar;
+35;Joyogrand;192@gmail.com;majubersama;admin;Malang;

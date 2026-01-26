@@ -1,4 +1,10 @@
-ID;Name;Suffix ON;Payload ON;Suffix OFF;Payload OFF;offset_value;has_timer;Keterangan
-1;Washer LG Biasa;/POWER1;ON;/POWER1;OFF;0;0;Untuk ON/OFF
-2;Dryer Maytag;/backlog;"pulsetime1 {val}; power1 on";/POWER1;OFF;100;1;Untuk ON, tapi disini nilai pulsetime1 bisa dinamis dengan rumus detik ke menit adalah nilai (pulsetime1-100)/60. Nilai pulsetime1 adalah 700 untuk 10 menit, 2500 untuk 40 menit dan 3100 untuk 50 menit
-3;Dryer LG Commercial;/backlog;"pulsetime1 {val}; power1 on; mem1 {menit}";/POWER1;OFF;150;1;Untuk ON, tapi disini nilai pulsetime1 bisa dinamis dengan rumus detik ke menit adalah nilai (pulsetime1-150)/60. Nilai pulsetime1 adalah 750 untuk 10 menit, 2550 untuk 40 menit dan 3150 untuk 50 menit. Nilai mem1 adalah 10 untuk 10 menit, 40 untuk 40 menit dan 50 untuk 50 menit
+ID;Name;Suffix ON;Payload ON;Suffix OFF;Payload OFF;offset_value;has_timer;Keterangan;Note
+1;Washer LG Biasa;/POWER1;ON;/POWER1;OFF;0;0;Untuk ON/OFF;Kode tiga digit awal WM_
+2;Dryer Maytag;/backlog;"pulsetime1 {pulse}; power1 on";/POWER1;OFF;100;1;Untuk ON, tapi disini nilai pulsetime1 bisa dinamis dengan rumus detik ke menit adalah nilai (pulsetime1-100)/60. Nilai pulsetime1 adalah 700 untuk 10 menit, 2500 untuk 40 menit dan 3100 untuk 50 menit;Kode tiga digit awal DM_
+3;Dryer LG Commercial;/backlog;"pulsetime1 {pulse}; power1 on; mem1 {menit}";/POWER1;OFF;150;1;Untuk ON, tapi disini nilai pulsetime1 bisa dinamis dengan rumus detik ke menit adalah nilai (pulsetime1-150)/60. Nilai pulsetime1 adalah 750 untuk 10 menit, 2550 untuk 40 menit dan 3150 untuk 50 menit. Nilai mem1 adalah 10 untuk 10 menit, 40 untuk 40 menit dan 50 untuk 50 menit;Kode 4 digit awal DML_
+9;Washer LG Non Favorit;/POWER1;ON;/POWER1;OFF;0;0;Untuk ON/OFF;
+4;Washer LG New;/POWER1;ON;/POWER1;OFF;0;0;Untuk ON/OFF;Kode 4 digit awal WML_
+5;Washer LG 9kg;/POWER1;ON;/POWER1;OFF;0;0;Untuk ON/OFF;Kode 5 digit awal WML9_
+6;Dryer Foggia;/backlog;"pulsetime1 {pulse}; mem3 {pulse_min_102}; power1 on";/POWER1;OFF;100;1;Untuk ON, tapi disini nilai pulsetime1 bisa dinamis dengan rumus detik ke menit adalah nilai (pulsetime1-100)/60. Nilai pulsetime1 adalah 700 untuk 10 menit, 2500 untuk 40 menit dan 3100 untuk 50 menit. Nilai mem3 adalah nilai pulsetime1 - 102;Kode 4 digit awal DMF_
+7;Dryer Beko;/backlog;"pulsetime1 {pulse}; power1 on";/POWER1;OFF;100;1;Note sama seperti Dryer Maytag;Kode 4 digit awal DMB_
+8;Washer LG Commercial;/POWER1;ON;/POWER1;OFF;0;0;Untuk ON/OFF;Kode 5 digit awal WMLG_
