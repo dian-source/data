@@ -1,10 +1,37 @@
-ID;Name;Suffix ON;Payload ON;Suffix OFF;Payload OFF;offset_value;has_timer;Keterangan;Note
-1;Washer LG Biasa;/POWER1;ON;/POWER1;OFF;100;0;Untuk ON/OFF;Kode tiga digit awal WM_
-2;Dryer Maytag;/backlog;"pulsetime1 {pulse}; power1 on";/POWER1;OFF;100;1;Untuk ON, tapi disini nilai pulsetime1 bisa dinamis dengan rumus detik ke menit adalah nilai (pulsetime1-100)/60. Nilai pulsetime1 adalah 700 untuk 10 menit, 2500 untuk 40 menit dan 3100 untuk 50 menit;Kode tiga digit awal DM_
-3;Dryer LG Commercial;/backlog;"pulsetime1 {pulse}; power1 on; mem1 {menit}";/POWER1;OFF;150;1;Untuk ON, tapi disini nilai pulsetime1 bisa dinamis dengan rumus detik ke menit adalah nilai (pulsetime1-150)/60. Nilai pulsetime1 adalah 750 untuk 10 menit, 2550 untuk 40 menit dan 3150 untuk 50 menit. Nilai mem1 adalah 10 untuk 10 menit, 40 untuk 40 menit dan 50 untuk 50 menit;Kode 4 digit awal DML_
-9;Washer LG Non Favorit;/POWER1;ON;/POWER1;OFF;100;0;Untuk ON/OFF;
-4;Washer LG New;/POWER1;ON;/POWER1;OFF;100;0;Untuk ON/OFF;Kode 4 digit awal WML_
-5;Washer LG 9kg;/POWER1;ON;/POWER1;OFF;100;0;Untuk ON/OFF;Kode 5 digit awal WML9_
-6;Dryer Foggia;/backlog;"pulsetime1 {pulse}; mem3 {pulse_min_102}; power1 on";/POWER1;OFF;100;1;Untuk ON, tapi disini nilai pulsetime1 bisa dinamis dengan rumus detik ke menit adalah nilai (pulsetime1-100)/60. Nilai pulsetime1 adalah 700 untuk 10 menit, 2500 untuk 40 menit dan 3100 untuk 50 menit. Nilai mem3 adalah nilai pulsetime1 - 102;Kode 4 digit awal DMF_
-7;Dryer Beko;/backlog;"pulsetime1 {pulse}; power1 on";/POWER1;OFF;100;1;Note sama seperti Dryer Maytag;Kode 4 digit awal DMB_
-8;Washer LG Commercial;/POWER1;ON;/POWER1;OFF;100;0;Untuk ON/OFF;Kode 5 digit awal WMLG_
+ID;Name;Email;Password;Role;Kota;Location
+1;Palmerah;123@gmail.com;majubersama;admin;Jakarta Barat;-
+2;Nellanvoli;123@gmail.com;majubersama;admin;Jakarta Barat;-
+3;Anggrek;123@gmail.com;majubersama;admin;Jakarta Barat;-
+4;Cagar Alam;234@gmail.com;majubersama;admin;Depok;-
+5;Pitara;234@gmail.com;majubersama;admin;Depok;-
+6;Sanim Tanah Baru;234@gmail.com;majubersama;admin;Depok;-
+7;Patung Gajah;234@gmail.com;majubersama;admin;Depok;-
+8;Cagar Alam 2;234@gmail.com;majubersama;admin;Depok;-
+9;Pondok Terong;234@gmail.com;majubersama;admin;Depok;-
+10;Keadilan;234@gmail.com;majubersama;admin;Depok;-
+11;Greperi (Keradenan);234@gmail.com;majubersama;admin;Bogor;-
+12;CS Digital;999@gmail.com;bigbossnih;superadmin;Bandung;-
+13;Sesetan;345@gmail.com;majubersama;admin;Denpasar;-
+14;Komodo;345@gmail.com;majubersama;admin;Denpasar;-
+15;Rinjani;345@gmail.com;majubersama;admin;Denpasar;-
+16;Nonstop Laundry;345@gmail.com;majubersama;admin;Denpasar;-
+17;Malaka;456@gmail.com;majubersama;admin;Jakarta Timur;-
+18;Emam Pondok Kelapa;456@gmail.com;majubersama;admin;Jakarta Timur;-
+19;Bintara;456@gmail.com;majubersama;admin;Jakarta Timur;-
+20;Pondok Ungu;567@gmail.com;majubersama;admin;Bekasi;
+21;Gongseng;567@gmail.com;majubersama;admin;Jakarta Timur;
+22;Lavana;567@gmail.com;majubersama;admin;Bekasi;
+23;Pondok Kelapa;567@gmail.com;majubersama;admin;Jakarta Timur;
+24;Gongseng 2;567@gmail.com;majubersama;admin;Jakarta Timur;
+25;Vasaka;567@gmail.com;majubersama;admin;Jakarta Selatan;
+26;Tegal Parang;567@gmail.com;majubersama;admin;Jakarta Selatan;
+27;Asem Baris;567@gmail.com;majubersama;admin;Jakarta Selatan;
+28;Kuningan Barat;567@gmail.com;majubersama;admin;Jakarta Selatan;
+29;Kramat Sentiong;678@gmail.com;majubersama;admin;Jakarta Pusat;
+30;Sisingamaraja;789@gmail.com;majubersama;admin;Jogjakarta;
+31;Condong Catur;789@gmail.com;majubersama;admin;Jogjakarta;
+32;Laundry Klin;890@gmail.com;majubersama;admin;Jakarta Selatan;
+33;Everyday Laundry;901@gmail.com;majubersama;admin;Cikarang;
+34;Qiuqiu Laundry;019@gmail.com;majubersama;admin;Denpasar;
+35;Joyogrand;192@gmail.com;majubersama;admin;Malang;
+36;Sulfat;192@gmail.com;majubersama;admin;Malang;
