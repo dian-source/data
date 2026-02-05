@@ -1,0 +1,353 @@
+"Nama Cabang";"Nama Device";"Topik MQTT"
+Anggrek;"Dryer 01";DM_D48AFC325FD0
+Anggrek;"Dryer 02";DM_D48AFC31F4B0
+Anggrek;"Dryer 03";DM_D48AFC35461A
+Anggrek;"Dryer 04";DM_D48AFC354387
+Anggrek;"Washer 01";WM_98F4ABB4257A
+Anggrek;"Washer 02";WM_6001940CFA4D
+Anggrek;"Washer 03";WM_2C3AE82BBAF7
+Anggrek;"Washer 04";WM_6001941C76CD
+"Asem Baris";"Dryer 01";DM_34987ADF6140
+"Asem Baris";"Dryer 02";DM_34987AE0F102
+"Asem Baris";"Dryer 03";DM_2CF432F8B866
+"Asem Baris";"Washer 01";WM_483FDAAA9EBC
+"Asem Baris";"Washer 02";WM_2CF4321A4C9E
+"Asem Baris";"Washer 03";WM_F4CFA249E98C
+Bintara;"Dryer 01";DM_D48AFC325C9C
+Bintara;"Dryer 02";DM_D48AFC325CBA
+Bintara;"Dryer 03";DM_D48AFC325D7A
+Bintara;"Dryer 04";DM_D48AFC325B0D
+Bintara;"Dryer 05";DM_D48AFC325A76
+Bintara;"Washer 01";WM_98F4ABDDB18C
+Bintara;"Washer 02";WM_483FDA1F3BBA
+Bintara;"Washer 03";WM_FCF5C49E85D4
+Bintara;"Washer 04";WM_C8C9A3BBEE63
+Bintara;"Washer 05";WM_4022D895A959
+"Cagar Alam";"Dryer 01";DM_D48AFC31F667
+"Cagar Alam";"Dryer 02";DM_D48AFC3545E8
+"Cagar Alam";"Dryer 03";DM_D48AFC325C21
+"Cagar Alam";"Dryer 04";DM_D48AFC3542D2
+"Cagar Alam";"Washer 01";WM_BCDDC2B5F6F2
+"Cagar Alam";"Washer 02";WM_68C63AF6FD70
+"Cagar Alam";"Washer 03";WM_DC4F227B8983
+"Cagar Alam";"Washer 04";WM_DC4F224EC821
+"Cagar Alam 2";"Dryer 01";DMF_A4CF12F04D06
+"Cagar Alam 2";"Dryer 02";DMF_483FDA5AF866
+"Cagar Alam 2";"Dryer 03";DMF_F4CFA2D979D8
+"Cagar Alam 2";"Dryer 04";DMF_A4CF12F09573
+"Cagar Alam 2";"Washer 01";WM_840D8EB69B29
+"Cagar Alam 2";"Washer 02";WM_BCDDC203FEA4
+"Cagar Alam 2";"Washer 03";WM_98F4ABE90B29
+"Cagar Alam 2";"Washer 04";WM_840D8EB6E2BE
+"Condong Catur";"Dryer 01";DM_EC94CB9F39B9
+"Condong Catur";"Dryer 02";DM_EC94CB9FD813
+"Condong Catur";"Dryer 03";DM_EC94CB9FD818
+"Condong Catur";"Dryer 04";DM_EC94CB9F946B
+"Condong Catur";"Washer 01";WM_5CCF7FDD98A7
+"Condong Catur";"Washer 02";WM_B4E62D4D5DC8
+"Condong Catur";"Washer 03";WM_807D3A2E389F
+"Condong Catur";"Washer 04";WM_BCDDC2281203
+"Emam Pondok Kelapa";"Dryer 01";DM_D48AFC35322E
+"Emam Pondok Kelapa";"Dryer 02";DM_D48AFC325D21
+"Emam Pondok Kelapa";"Dryer 03";DM_D48AFC353172
+"Emam Pondok Kelapa";"Dryer 04";DM_D48AFC325EAA
+"Emam Pondok Kelapa";"Dryer 05";DM_D48AFC325CA6
+"Emam Pondok Kelapa";"Washer 01";WM_2CF43263AD95
+"Emam Pondok Kelapa";"Washer 02";WM_8CAAB5C9E1F3
+"Emam Pondok Kelapa";"Washer 03";WM_2CF432638580
+"Emam Pondok Kelapa";"Washer 04";WM_2C3AE83540FB
+"Emam Pondok Kelapa";"Washer 05";WM_483FDA4F24B0
+"Everyday Laundry";"Dryer 01";DMB_ECFABC30E47E
+"Everyday Laundry";"Dryer 02";DMB_ECFABC30E5D6
+"Everyday Laundry";"Washer 01";WML9_ECFABC30E500
+"Everyday Laundry";"Washer 02";WML9_58BF25D9C241
+Gongseng;"Dryer 01";DM_D48AFC35468A
+Gongseng;"Dryer 02";DM_D48AFC325A14
+Gongseng;"Dryer 03";DM_D48AFC325E94
+Gongseng;"Dryer 04";DM_D48AFC3544BC
+Gongseng;"Dryer 05";DM_D48AFC325E21
+Gongseng;"Washer 01";WM_F4CFA2E587FF
+Gongseng;"Washer 02";WM_8CAAB5091113
+Gongseng;"Washer 03";WM_F008D101CBAF
+Gongseng;"Washer 04";WM_840D8EBBE11C
+Gongseng;"Washer 05";WM_2CF43227156A
+"Gongseng 2";"Dryer 01";DM_D48AFC350184
+"Gongseng 2";"Dryer 02";DM_D48AFC35345E
+"Gongseng 2";"Dryer 03";DM_D48AFC35345C
+"Gongseng 2";"Dryer 04";DM_D48AFC3533C3
+"Gongseng 2";"Dryer 05";DM_D48AFC353FA7
+"Gongseng 2";"Washer 01";WML_8CAAB54D4E49
+"Gongseng 2";"Washer 02";WML_8CAAB5760DFA
+"Gongseng 2";"Washer 03";WML_A4E57C932FF5
+"Gongseng 2";"Washer 04";WML_CC50E365F3C9
+"Gongseng 2";"Washer 05";WML_840D8EB1F144
+"Greperi (Keradenan)";"Dryer 01";DM_D48AFC3534BE
+"Greperi (Keradenan)";"Dryer 02";DM_D48AFC353D19
+"Greperi (Keradenan)";"Dryer 03";DM_D48AFC354636
+"Greperi (Keradenan)";"Dryer 04";DM_D48AFC325FA7
+"Greperi (Keradenan)";"Washer 01";WM_4022D895F2AA
+"Greperi (Keradenan)";"Washer 02";WM_ECFABC1F4108
+"Greperi (Keradenan)";"Washer 03";WM_807D3A544E11
+"Greperi (Keradenan)";"Washer 04";WM_5CCF7F15B515
+Joyogrand;"Dryer 01";DM_D48AFC325C83
+Joyogrand;"Dryer 02";DM_D48AFC3533F2
+Joyogrand;"Dryer 03";DM_D48AFC3534FD
+Joyogrand;"Dryer 04";DM_D48AFC3509C7
+Joyogrand;"Washer 01";WM_4022D895A936
+Joyogrand;"Washer 02";WM_4022D895A9C3
+Joyogrand;"Washer 03";WM_4022D895F318
+Joyogrand;"Washer 04";WM_4022D895C8E7
+Keadilan;"Dryer 01";DM_D48AFC353539
+Keadilan;"Dryer 02";DM_D48AFC3501B1
+Keadilan;"Dryer 03";DM_D48AFC3501AF
+Keadilan;"Dryer 04";DM_D48AFC3501C1
+Keadilan;"Dryer 05";DM_D48AFC325D12
+Keadilan;"Washer 01";WM_C8C9A3AC842E
+Keadilan;"Washer 02";WM_2CF4327CEC4C
+Keadilan;"Washer 03";WM_5002917513DC
+Keadilan;"Washer 04";WM_840D8EBBE3D8
+Keadilan;"Washer 05";WM_500291C3943D
+Komodo;"Dryer 01";DM_2CF432F9C924
+Komodo;"Dryer 02";DM_34987AE0EBD0
+Komodo;"Dryer 03";DM_2CF432F8B9BC
+Komodo;"Dryer 04";DM_2CF432F9D7D8
+Komodo;"Dryer 05";DM_34987AE0F16E
+Komodo;"Washer 01";WM_FCF5C4A68AA3
+Komodo;"Washer 02";WM_BCDDC27A594C
+Komodo;"Washer 03";WM_84CCA8980DED
+Komodo;"Washer 04";WM_94B97E00AB0D
+Komodo;"Washer 05";WM_ECFABCC95235
+"Kramat Sentiong";"Dryer 01";DM_D48AFC354143
+"Kramat Sentiong";"Dryer 02";DM_34987AE0F167
+"Kramat Sentiong";"Dryer 03";DM_EC94CB9F6866
+"Kramat Sentiong";"Dryer 04";DM_D48AFC325C9B
+"Kramat Sentiong";"Washer 01";WML_8CAAB5CBA3B6
+"Kramat Sentiong";"Washer 02";WML_500291D4D9AF
+"Kramat Sentiong";"Washer 03";WML_D8BFC006C28D
+"Kramat Sentiong";"Washer 04";WML_C8C9A3B263FB
+"Kuningan Barat";"Dryer 01";DM_D48AFC325E8B
+"Kuningan Barat";"Dryer 02";DM_D48AFC350A26
+"Kuningan Barat";"Dryer 03";DM_D48AFC3531CC
+"Kuningan Barat";"Washer 01";WM_C82B961C2FA5
+"Kuningan Barat";"Washer 02";WM_500291FFADA1
+"Kuningan Barat";"Washer 03";WM_F4CFA2C35AAC
+"Laundry Klin";"Dryer 01";DML_8CAAB549CC61
+"Laundry Klin";"Dryer 02";DML_5CCF7F421B11
+"Laundry Klin";"Dryer 03";DML_DC4F227B8A72
+"Laundry Klin";"Dryer 04";DML_8CAAB508EB1B
+"Laundry Klin";"Dryer 05";DML_A020A6024EDE
+"Laundry Klin";"Dryer 06";DML_5CCF7F91E99D
+"Laundry Klin";"Washer 01";WMLG_60019414117F
+"Laundry Klin";"Washer 02";WMLG_F4CFA2EDFB16
+"Laundry Klin";"Washer 03";WMLG_4C11AE1357AB
+"Laundry Klin";"Washer 04";WMLG_ECFABC30E32A
+"Laundry Klin";"Washer 05";WMLG_A4CF12B97660
+"Laundry Klin";"Washer 06";WMLG_60019413F76D
+Lavana;"Dryer 01";DM_D48AFC31F4CC
+Lavana;"Dryer 02";DM_D48AFC325EB1
+Lavana;"Dryer 03";DM_D48AFC31F456
+Lavana;"Washer 01";WM_84F3EB95732E
+Lavana;"Washer 02";WM_5CCF7F49D876
+Lavana;"Washer 03";WM_84F3EB32A58B
+Malaka;"Dryer 01";DM_D48AFC3543AE
+Malaka;"Dryer 02";DM_D48AFC3541CF
+Malaka;"Dryer 03";DM_D48AFC325FD1
+Malaka;"Dryer 04";DM_D48AFC35428B
+Malaka;"Dryer 05";DM_D48AFC3543A7
+Malaka;"Washer 01";WM_E098061554EE
+Malaka;"Washer 02";WM_D8BFC00DE442
+Malaka;"Washer 03";WM_8CCE4EC517BA
+Malaka;"Washer 04";WM_E098069197A8
+Malaka;"Washer 05";WM_68C63AFBF8E0
+Nellanvoli;"Dryer 01";DM_D48AFC35341F
+Nellanvoli;"Dryer 02";DM_D48AFC325A78
+Nellanvoli;"Dryer 03";DM_D48AFC325C94
+Nellanvoli;"Dryer 04";DM_D48AFC325A70
+Nellanvoli;"Washer 01";WM_4022D895C845
+Nellanvoli;"Washer 02";WM_F8B3B78CBC7E
+Nellanvoli;"Washer 03";WM_4022D895A8BE
+Nellanvoli;"Washer 04";WM_4022D895AA22
+"Nonstop Laundry";"Dryer 01";DML_7C87CEB0E68E
+"Nonstop Laundry";"Dryer 02";DML_CC50E3440731
+"Nonstop Laundry";"Dryer 03";DML_B4E62D7314E7
+"Nonstop Laundry";"Dryer 04";DML_2C3AE81535CD
+"Nonstop Laundry";"Dryer 05";DML_68C63A8B8C55
+"Nonstop Laundry";"Dryer 06";DML_DC4F2242A368
+"Nonstop Laundry";"Dryer 07";DML_58BF25D7F69A
+"Nonstop Laundry";"Washer 01";WM_4417933C4038
+"Nonstop Laundry";"Washer 02";WM_C45BBEF52A22
+"Nonstop Laundry";"Washer 03";WM_C8C9A399C3C2
+"Nonstop Laundry";"Washer 04";WM_BCDDC2AC0292
+"Nonstop Laundry";"Washer 05";WM_F4CFA2638AA0
+"Nonstop Laundry";"Washer 06";WM_4C7525350B8A
+"Nonstop Laundry";"Washer 07";WM_24A1603A9EA7
+Palmerah;"Dryer 01";DM_2CF432F8B9C3
+Palmerah;"Dryer 02";DM_2CF432F8BA3B
+Palmerah;"Dryer 03";DM_D48AFC325D47
+Palmerah;"Dryer 04";DM_2CF432F92F74
+Palmerah;"Dryer 05";DM_2CF432F9D77B
+Palmerah;"Washer 01";WM_BCDDC27A6C1E
+Palmerah;"Washer 02";WM_24A1602CC3EB
+Palmerah;"Washer 03";WM_ECFABCC85622
+Palmerah;"Washer 04";WM_C82B9620EC63
+Palmerah;"Washer 05";WM_ECFABCC954BD
+"Patung Gajah";"Dryer 01";DM_2CF432F8BA40
+"Patung Gajah";"Dryer 02";DM_2CF432F9E194
+"Patung Gajah";"Dryer 03";DM_34987ADF5E32
+"Patung Gajah";"Dryer 04";DM_2CF432F9C9DE
+"Patung Gajah";"Dryer 05";DM_34987AE0F17F
+"Patung Gajah";"Washer 01";WM_3C6105DDE8B6
+"Patung Gajah";"Washer 02";WM_F4CFA2D262B3
+"Patung Gajah";"Washer 03";WM_24A1602CA837
+"Patung Gajah";"Washer 04";WM_ECFABCC9C072
+"Patung Gajah";"Washer 05";WM_C82B962278CA
+Pitara;"Dryer 01";DM_2CF432F9FE01
+Pitara;"Dryer 02";DM_D48AFC325D0B
+Pitara;"Dryer 03";DM_D48AFC325D09
+Pitara;"Dryer 04";DM_D48AFC35451B
+Pitara;"Dryer 05";DM_2CF432F89BE7
+Pitara;"Washer 01";WM_ECFABCC9E899
+Pitara;"Washer 02";WM_DC4F224EAE20
+Pitara;"Washer 03";WM_E09806218AF2
+Pitara;"Washer 04";WM_D8F15B01A6DB
+Pitara;"Washer 05";WM_D8F15B01C6A4
+"Pondok Kelapa";"Dryer 01";DM_D48AFC35452D
+"Pondok Kelapa";"Dryer 02";DM_D48AFC35449B
+"Pondok Kelapa";"Dryer 03";DM_D48AFC31F4AB
+"Pondok Kelapa";"Dryer 04";DM_D48AFC3540E7
+"Pondok Kelapa";"Dryer 05";DM_D48AFC325ED1
+"Pondok Kelapa";"Washer 01";WML_BCDDC23D9EB7
+"Pondok Kelapa";"Washer 02";WML_CC50E36E5693
+"Pondok Kelapa";"Washer 03";WML_40F520E31CFC
+"Pondok Kelapa";"Washer 04";WML_84CCA8817E6B
+"Pondok Kelapa";"Washer 05";WML_D8BFC0EC54EA
+"Pondok Terong";"Dryer 01";DM_D48AFC35019C
+"Pondok Terong";"Dryer 02";DM_D48AFC3542F8
+"Pondok Terong";"Dryer 03";DM_D48AFC354230
+"Pondok Terong";"Dryer 04";DM_D48AFC354388
+"Pondok Terong";"Washer 01";WML_E868E7C811C8
+"Pondok Terong";"Washer 02";WML_F4CFA24265E6
+"Pondok Terong";"Washer 03";WML_E868E780BFA9
+"Pondok Terong";"Washer 04";WML_500291F52249
+"Pondok Ungu";"Dryer 01";DM_34AB95A8E691
+"Pondok Ungu";"Dryer 02";DM_EC94CBA01242
+"Pondok Ungu";"Dryer 03";DM_EC94CB9FE62E
+"Pondok Ungu";"Dryer 04";DM_EC94CB9F6795
+"Pondok Ungu";"Dryer 05";DM_EC94CBA013D3
+"Pondok Ungu";"Washer 01";WM_6001940ABE45
+"Pondok Ungu";"Washer 02";WM_BCDDC2ECECA8
+"Pondok Ungu";"Washer 03";WM_A4CF12DD2253
+"Pondok Ungu";"Washer 04";WM_2CF43227067C
+"Pondok Ungu";"Washer 05";WM_840D8EBBE5AC
+"Pondok Ungu";"Washer 06";WM_84F3EBD8DE0B
+"Pondok Ungu";"Washer 07";WM_483FDA750EC3
+"Qiuqiu Laundry";"Dryer 01";DML_ECFABC30E2EB
+"Qiuqiu Laundry";"Dryer 02";DML_807D3A179F33
+"Qiuqiu Laundry";"Dryer 03";DML_6001940DB99B
+"Qiuqiu Laundry";"Dryer 04";DML_60019408249E
+"Qiuqiu Laundry";"Dryer 05";DML_4C11AE02A3A5
+"Qiuqiu Laundry";"Washer 01";WM_DC4F221666AB
+"Qiuqiu Laundry";"Washer 02";WM_5CCF7F20648D
+"Qiuqiu Laundry";"Washer 03";WM_6001941C2EB1
+"Qiuqiu Laundry";"Washer 04";WM_5CCF7FDD989A
+"Qiuqiu Laundry";"Washer 05";WM_ECFABC30E4E9
+Rinjani;"Dryer 01";DM_D48AFC3534A2
+Rinjani;"Dryer 02";DM_D48AFC354196
+Rinjani;"Dryer 03";DM_D48AFC31F4E2
+Rinjani;"Dryer 04";DM_D48AFC325D41
+Rinjani;"Dryer 05";DM_D48AFC325F9C
+Rinjani;"Washer 01";WM_84F3EB0D299A
+Rinjani;"Washer 02";WM_483FDA690B15
+Rinjani;"Washer 03";WM_BCDDC2496988
+Rinjani;"Washer 04";WM_84F3EBE24862
+Rinjani;"Washer 05";WM_4C752504B680
+"Sanim Tanah Baru";"Dryer 01";DM_D48AFC31F435
+"Sanim Tanah Baru";"Dryer 02";DM_D48AFC325FDD
+"Sanim Tanah Baru";"Dryer 03";DM_D48AFC3543B9
+"Sanim Tanah Baru";"Dryer 04";DM_D48AFC325C69
+"Sanim Tanah Baru";"Dryer 05";DM_D48AFC31F4BF
+"Sanim Tanah Baru";"Washer 01";WM_5CCF7FDBB74F
+"Sanim Tanah Baru";"Washer 02";WM_2CF432270574
+"Sanim Tanah Baru";"Washer 03";WM_84F3EB9E3985
+"Sanim Tanah Baru";"Washer 04";WM_D8BFC0FD6A27
+"Sanim Tanah Baru";"Washer 05";WM_B4E62D6B6826
+Sesetan;"Dryer 01";DM_D48AFC354466
+Sesetan;"Dryer 02";DM_2CF432F89FDF
+Sesetan;"Dryer 03";DM_D48AFC354435
+Sesetan;"Dryer 04";DM_D48AFC353E40
+Sesetan;"Dryer 05";DM_D48AFC350A31
+Sesetan;"Dryer 06";DM_D48AFC325CF7
+Sesetan;"Dryer 07";DM_D48AFC35447E
+Sesetan;"Washer 01";WM_D8F15B017BB4
+Sesetan;"Washer 02";WM_CC50E33D9627
+Sesetan;"Washer 03";WM_40F52033C693
+Sesetan;"Washer 04";WM_BCDDC271AF4F
+Sesetan;"Washer 05";WM_98F4ABF533EE
+Sesetan;"Washer 06";WM_840D8EB6A7EC
+Sesetan;"Washer 07";WM_FCF5C4A69D58
+Sisingamaraja;"Dryer 01";DM_D48AFC325F4D
+Sisingamaraja;"Dryer 02";DM_D48AFC35410D
+Sisingamaraja;"Dryer 03";DM_D48AFC325F55
+Sisingamaraja;"Dryer 04";DM_EC94CB9FDA8E
+Sisingamaraja;"Washer 01";WM_F4CFA2D6AD7C
+Sisingamaraja;"Washer 02";WM_C45BBEF4A248
+Sisingamaraja;"Washer 03";WM_ECFABC30E4EE
+Sisingamaraja;"Washer 04";WM_24D7EBFD895C
+Sulfat;"Dryer 01";DM_D48AFC325C95
+Sulfat;"Dryer 02";DM_EC94CB9F65DB
+Sulfat;"Dryer 03";DM_EC94CB9FD814
+Sulfat;"Dryer 04";DM_EC94CB9FDA90
+Sulfat;"Washer 01";WM_4022D895A9DA
+Sulfat;"Washer 02";WM_ECFABC30E306
+Sulfat;"Washer 03";WM_5CCF7FB53C43
+Sulfat;"Washer 04";WM_ECFABC30E526
+"Tegal Parang";"Dryer 01";DM_D48AFC350258
+"Tegal Parang";"Dryer 02";DM_D48AFC3540AD
+"Tegal Parang";"Dryer 03";DM_D48AFC3533FB
+"Tegal Parang";"Dryer 04";DM_D48AFC35434E
+"Tegal Parang";"Washer 01";WM_B4E62D27C234
+"Tegal Parang";"Washer 02";WM_C82B96202D63
+"Tegal Parang";"Washer 03";WM_483FDA68363B
+"Tegal Parang";"Washer 04";WM_483FDA06F96D
+Unregis_Devices;"Dryer 65";DM_EC94CB9FD822
+Unregis_Devices;"Dryer 66";DM_EC94CB9FDA96
+Unregis_Devices;"Dryer 67";DM_EC94CB9F39B7
+Unregis_Devices;"Dryer 68";DM_EC94CB9FD842
+Unregis_Devices;"Dryer 74";DML_B4E62D4D603F
+Unregis_Devices;"Dryer 75";DML_BCDDC273DA4F
+Unregis_Devices;"Dryer 76";DML_68C63AE0A18E
+Unregis_Devices;"Dryer 77";DML_B4E62D4D5BB9
+Unregis_Devices;"Dryer 78";DML_4855196BD8A6
+Unregis_Devices;"Dryer 79";DM_34987AC940D5
+Unregis_Devices;"Dryer 80";DM_2CF432F9D57A
+Unregis_Devices;"Dryer 81";DM_D48AFC354162
+Unregis_Devices;"Dryer 82";DM_D48AFC35456E
+Unregis_Devices;"Dryer 83";DM_D48AFC31F3F0
+Unregis_Devices;"Dryer 84";DM_D48AFC354575
+Unregis_Devices;"Dryer 85";DM_4855194A314D
+Unregis_Devices;"Dryer 86";DM_D48AFC353DA3
+Unregis_Devices;"Washer 65";WM_B4E62D4D5D23
+Unregis_Devices;"Washer 66";WM_6001940CBDEF
+Unregis_Devices;"Washer 67";WM_6001945A2339
+Unregis_Devices;"Washer 68";WM_CC50E3F37CF6
+Unregis_Devices;"Washer 74";WMLG_ECFABCA75299
+Unregis_Devices;"Washer 75";WMLG_ECFABC30E4AD
+Unregis_Devices;"Washer 76";WMLG_2C3AE82BB5E1
+Unregis_Devices;"Washer 77";WMLG_BCDDC22371AB
+Unregis_Devices;"Washer 78";WMLG_BCFF4D4990C9
+Unregis_Devices;"Washer 79";WM_BCDDC2287DF1
+Unregis_Devices;"Washer 80";WM_B4E62D4D5D21
+Unregis_Devices;"Washer 81";WM_18FE34CE41B4
+Unregis_Devices;"Washer 82";WM_B4E62D6F76A3
+Unregis_Devices;"Washer 83";WM_807D3A52F147
+Unregis_Devices;"Washer 84";WM_BCDDC22879E0
+Unregis_Devices;"Washer 85";WM_CC50E3760C44
+Unregis_Devices;"Washer 86";WM_AC0BFBDC263C
+Vasaka;"Dryer 01";DM_D48AFC354361
+Vasaka;"Dryer 02";DM_D48AFC353EED
+Vasaka;"Dryer 03";DM_D48AFC353F9D
+Vasaka;"Dryer 04";DM_D48AFC3533E2
+Vasaka;"Washer 01";WM_3494549DB810
+Vasaka;"Washer 02";WM_C8C9A39EE4AF
+Vasaka;"Washer 03";WM_500291B01163
+Vasaka;"Washer 04";WM_F4CFA26ABA82
